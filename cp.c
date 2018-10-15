@@ -4,7 +4,6 @@
 
 #define WRONG_ARGS 1
 #define FILE_ERR 2
-#define COPY_ERR 3
 
 #define BUF_SIZE 4096
 
